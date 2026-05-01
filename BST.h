@@ -1,5 +1,5 @@
-// hanya essam eldin mohamed--20246122
-// habiba amr mohamed--20246042
+// hanya essam eldin mohamed
+// habiba amr mohamed
 #include<string>
 #include<iostream>
 using namespace std;
